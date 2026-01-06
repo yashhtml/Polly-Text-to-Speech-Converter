@@ -39,8 +39,8 @@ Matthew (English – Male)
 Aditi (Indian English)
 Kajal (Hindi)
 
-#### CHange in Python to apply voices
-#### >> Here : VoiceId='Aditi'
+###Change in Python to apply voices
+###>> Here : VoiceId='Aditi'
 
 ### 3️⃣ Test Event
 ```json
